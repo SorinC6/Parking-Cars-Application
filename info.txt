@@ -1,0 +1,72 @@
+nume: Dacia
+ culoare: Alb
+ numar de inmatriculare: MM 42 ALM
+ viteza: 0
+ viteza maxima: 100
+ numar de usi: 4
+
+
+Timp de intrare: Data: 18.07.2018
+ la ora: 16 : 58 : 38
+Timp de iesire: Data: 00.00.0
+ la ora: 00 : 00 : 00
+nume: Lamborgini
+ culoare: Albastru
+ numar de inmatriculare: TM 12 213
+ viteza: 0
+ viteza maxima: 250
+ numar de usi: 2
+
+
+Timp de intrare: Data: 18.07.2018
+ la ora: 16 : 58 : 38
+Timp de iesire: Data: 00.00.0
+ la ora: 00 : 00 : 00
+nume: Opel
+ culoare: Negru
+ numar de inmatriculare: B 34 A63
+ viteza: 0
+ viteza maxima: 180
+ numar de usi: 4
+
+
+Timp de intrare: Data: 18.07.2018
+ la ora: 16 : 58 : 38
+Timp de iesire: Data: 00.00.0
+ la ora: 00 : 00 : 00
+nume: Ferrari
+ culoare: Rosu
+ numar de inmatriculare: BV 38 7A3
+ viteza: 0
+ viteza maxima: 180
+ numar de usi: 4
+
+
+Timp de intrare: Data: 18.07.2018
+ la ora: 16 : 58 : 38
+Timp de iesire: Data: 00.00.0
+ la ora: 00 : 00 : 00
+nume: Fiat
+ culoare: Negru
+ numar de inmatriculare: MM 14 87G
+ viteza: 0
+ viteza maxima: 180
+ numar de usi: 4
+
+
+Timp de intrare: Data: 18.07.2018
+ la ora: 16 : 58 : 38
+Timp de iesire: Data: 00.00.0
+ la ora: 00 : 00 : 00
+nume: Fiat
+ culoare: Alb
+ numar de inmatriculare: B 49 ARA
+ viteza: 0
+ viteza maxima: 180
+ numar de usi: 4
+
+
+Timp de intrare: Data: 18.07.2018
+ la ora: 16 : 58 : 38
+Timp de iesire: Data: 00.00.0
+ la ora: 00 : 00 : 00
